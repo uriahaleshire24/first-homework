@@ -123,12 +123,32 @@ footer{
 
 #first {
     position: absolute;
-  bottom: 270px;
-  left: 540px;
+  bottom: 275px;
+  left: 538px;
+  background-color: #4aaaa5
 }
 
 #second{
     position: absolute;
-  bottom: 270px;
+  bottom: 275px;
+  left: 718px;
+  background-color: #4aaaa5
+}
+#third{
+    position: absolute;
+  bottom: 95px;
+  left: 530px;
+  background-color: #4aaaa5
+}
+#forth{
+    position: absolute;
+  bottom: 95px;
   left: 720px;
+  background-color: #4aaaa5
+}
+#fifth{
+    position: absolute;
+  bottom: -135px;
+  left: 580px;
+  background-color: #4aaaa5
 }
